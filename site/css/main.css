@@ -75,12 +75,6 @@ header{
     display: block;
 }
 
-/* blaj */
-
-.nameheader{
-
-}
-
 .material-icons.md-36{
 font-size: 28px;
 }
@@ -151,4 +145,10 @@ a, a:visited{
     text-align: center;
     padding-top: 15px;
     background-color: pink;
+}
+
+@media only screen  and (min-width : 1224px){
+   img:hover{
+    color: black;
+   } 
 }
